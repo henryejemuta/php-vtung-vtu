@@ -4,6 +4,9 @@ A PHP package for integrating with the [VTU.ng API](https://vtu.ng/api/).
 
 [![Run Tests](https://github.com/henryejemuta/php-vtung-vtu/actions/workflows/run-tests.yml/badge.svg)](https://github.com/henryejemuta/php-vtung-vtu/actions/workflows/run-tests.yml)
 [![Release](https://github.com/henryejemuta/php-vtung-vtu/actions/workflows/publish.yml/badge.svg)](https://github.com/henryejemuta/php-vtung-vtu/actions/workflows/publish.yml)
+[![Total Downloads](https://poser.pugx.org/henryejemuta/php-vtung-vtu/downloads)](https://packagist.org/packages/henryejemuta/php-vtung-vtu)
+[![License](https://poser.pugx.org/henryejemuta/php-vtung-vtu/license)](https://packagist.org/packages/henryejemuta/php-vtung-vtu)
+[![Quality Score](https://img.shields.io/scrutinizer/g/henryejemuta/php-vtung-vtu.svg?style=flat-square)](https://scrutinizer-ci.com/g/henryejemuta/php-vtung-vtu)
 
 ## Documentation
 
